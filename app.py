@@ -6,7 +6,7 @@ import glob
 
 st.set_page_config(layout="wide")
 st.title('What makes up military equipment inventory?')
-st.subheader('Made by the Know System Racism Project')
+st.subheader('Made by the Know Systemic Racism Project')
 
 @st.cache_data
 def load_data():
