@@ -6,3 +6,5 @@ Purpose of the project: Help people understand how military equipment may influe
 
 Explain that this is a prototype. Overarching goal to do with *how* we communicate with data. "Collections as data" applied to Military Equipment Inventories which are part of the larger CA lea policy manuals collection.
 
+Notes about the code and where this is hosted -- link to the demo. 
+
