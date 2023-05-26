@@ -2,7 +2,7 @@ matplotlib
 numpy
 pandas
 plotly
-streamlit to >=1.20.0
-streamlit-pandas
-streamlit-plotly-events
+streamlit==1.22.0
+streamlit-pandas==1.22.0
+streamlit-plotly-events==1.22.0
 altair<5
