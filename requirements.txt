@@ -5,3 +5,4 @@ plotly
 streamlit
 streamlit-pandas
 streamlit-plotly-events
+altair<5
